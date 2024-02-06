@@ -10,4 +10,4 @@ Outra análise interessante é a de preços futuros, onde consegui acessar algun
 
 Apesar se ser um projeto para estudo, achei o assunto muito interessante e me possibilitou um aprendizado diferente de tudo que eu já havia trabalhado antes.
 
-![Alt Text]([url_do_seu_gif.gif](https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)
+(https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)
