@@ -9,3 +9,5 @@ Também podemos analisar um período maior como por exemplo o de 1 ano específi
 Outra análise interessante é a de preços futuros, onde consegui acessar alguns dados no site da CME(Chicago Mercantile Exchange) de previsões dos preços mensais de fechamento de alguns desses ativos para o ano de 2024, onde podemos nos basear para ficar de olho em alguns ativos que apresentam um comportamento mais rentável e assim diminuindo o risco de perdas em investimentos futuros. Podemos também usar essas previsões para verificar qual ativo é mais interessante fazer um trade de maior ou menor duração.
 
 Apesar se ser um projeto para estudo, achei o assunto muito interessante e me possibilitou um aprendizado diferente de tudo que eu já havia trabalhado antes.
+
+![Alt Text]([url_do_seu_gif.gif](https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)https://github.com/henrique-sleitao/uploads/blob/main/f75c2a11-191f-4215-9920-aecaac7dea5d.gif)
