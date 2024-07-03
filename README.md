@@ -1,4 +1,4 @@
-Recentemente desenvolvi esse projeto de análise de dados com o Power BI para uma empresa do ramo de investimentos em commodities.
+Projeto em o Power BI para análise de dados do ramo de investimentos em commodities.
 
 Foi utilizada uma base de dados onde era possível ver o preço diário de alguns commodities entre 12/2018 e 12/2023.
 
